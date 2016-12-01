@@ -43,8 +43,8 @@ class Lutador {
         echo "<p>----------------------------------</p>";
         echo "<p>" . $this->getNome() . " é um peso " . $this->getCategoria();
         echo " e já ganhou " . $this->getVitorias() .  " vezes,";
-        echo " perde " . $this->getDerrotas() . " vezes e";
-        echo " empatou " . $this->getEmpates() . " vezes!"; 
+        echo " perde " . $this->getDerrotas() . " vez(es) e";
+        echo " empatou " . $this->getEmpates() . " vez(es)!"; 
     }
     
     public function ganhaLuta(){
