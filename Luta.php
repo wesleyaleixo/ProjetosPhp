@@ -1,6 +1,6 @@
 <?php
 /**
- *http://www.cursoemvideo.com
+ * http://www.cursoemvideo.com
  * 
  * @author Wesley Aleixo
  */
