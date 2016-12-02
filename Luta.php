@@ -1,6 +1,7 @@
 <?php
 /**
- *
+ *http://www.cursoemvideo.com
+ * 
  * @author Wesley Aleixo
  */
 require_once 'Lutador.php';

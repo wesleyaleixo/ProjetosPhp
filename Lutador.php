@@ -1,6 +1,7 @@
 <?php
 /**
- *
+ * http://www.cursoemvideo.com
+ * 
  * @author Wesley Aleixo
  */
 class Lutador {
