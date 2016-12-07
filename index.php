@@ -34,6 +34,7 @@
                 print_r($p3);
                 print_r($p4);      
         
+                //Olá
              
 //              require_once 'Pessoa.php';
 //              require_once 'Livro.php';
